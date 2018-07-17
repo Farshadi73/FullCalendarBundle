@@ -1,5 +1,5 @@
 {
-    "name": "Farshadi73/FullCalendarBundle",
+    "name": "farshadi73/full-calendar-bundle",
     "description": "Reusable calendar bundle by Farshadi73",
     "license": "proprietary",
     "type": "symfony-bundle",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Farshadi73\\FullCalenderBundle\\": ""
+            "FullCalenderBundle\\": ""
         }
     },
     "require": {
