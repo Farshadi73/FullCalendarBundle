@@ -8,6 +8,10 @@
 
 namespace Farshadi73\FullCalenderBundle\Event\Interfaces;
 
+/**
+ * Interface CalendarEventInterface
+ * @package Farshadi73\FullCalenderBundle\Event\Interfaces
+ */
 interface CalendarEventInterface
 {
     const CONFIGURE = 'calendar.load_events';
